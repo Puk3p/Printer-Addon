@@ -1,0 +1,6 @@
+name: FactionsPrinterAddon
+version: 1.0
+main: org.Puk3p.FactionsPlaceholderPlugin
+api-version: 1.13
+authors: [ "Puk3p" ]
+depend: [ "PlaceholderAPI", "LuckPerms", "Factions" ]
