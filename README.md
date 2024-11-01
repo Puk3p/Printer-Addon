@@ -1,4 +1,4 @@
-# VanishCorrection Plugin
+# PrinterCorrection Plugin
 
 A custom Bukkit plugin designed to enhance vanish functionality for Minecraft servers with faction and roleplay (RP) elements. The plugin integrates with LuckPerms for permission management and PlaceholderAPI to provide placeholders, improving the overall vanish and roleplay experience for players.
 
